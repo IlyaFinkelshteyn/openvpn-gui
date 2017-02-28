@@ -1,5 +1,5 @@
 version: "cygwin-{build}"
-
+os: Previous Visual Studio 2015
 environment:
   matrix:
     - ARCH: x86
